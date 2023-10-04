@@ -138,12 +138,6 @@
     "link": "http://twitter.com/maidersonn_"
   },
   {
-    "avatar": "assets/attendees/roberto.jpg",
-    "name": "Roberto Garrido",
-    "nickname": "@che1404",
-    "link": "http://twitter.com/che1404"
-  },
-  {
     "avatar": "assets/attendees/gabriel.jpg",
     "name": "Gabriel Aberasturi",
     "nickname": "@GAberasturi",
@@ -180,12 +174,6 @@
     "link": "http://twitter.com/_Korlat"
   },
   {
-    "avatar": "assets/attendees/josebaseba.jpg",
-    "name": "Joseba Legarreta",
-    "nickname": "@Josebaseba",
-    "link": "http://twitter.com/Josebaseba"
-  },
-  {
     "avatar": "assets/attendees/ebikandi.jpeg",
     "name": "Eneko Bikandi",
     "nickname": "@_ebikandi",
@@ -196,5 +184,17 @@
     "name": "Bingen Ortuzar",
     "nickname": "@bingen",
     "link": "http://twitter.com/bingen"
+  },
+  {
+    "avatar": "assets/attendees/borja.jpeg",
+    "name": "Borja Portugal",
+    "nickname": "@BorjaPortu3",
+    "link": "http://twitter.com/BorjaPortu3"
+  },
+  {
+    "avatar": "assets/attendees/unai.jpeg",
+    "name": "Unai Fernandez",
+    "nickname": "@unaifernandez95",
+    "link": "http://twitter.com/unaifernandez95"
   }
 ]
