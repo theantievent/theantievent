@@ -240,12 +240,6 @@
     "link": "http://twitter.com/LitleTitivillus"
   },
   {
-    "avatar": "assets/attendees/marta-torre.jpeg",
-    "name": "Marta Torre",
-    "nickname": "@martatorredev",
-    "link": "http://twitter.com/martatorredev"
-  },
-  {
     "avatar": "assets/attendees/txipi.jpeg",
     "name": "Pablo Garaizar",
     "nickname": "@PGaraizar",
@@ -262,6 +256,12 @@
     "name": "Diego Dominguez",
     "nickname": "@seniorglez",
     "link": "https://github.com/seniorglez"
+  },
+  {
+    "avatar": "assets/attendees/marta-torre.jpeg",
+    "name": "Marta Torre",
+    "nickname": "@martatorredev",
+    "link": "http://twitter.com/martatorredev"
   },
   {
     "avatar": "assets/attendees/degredilla.jpeg",
