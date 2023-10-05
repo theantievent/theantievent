@@ -226,5 +226,11 @@
     "name": "Ivan Morales",
     "nickname": "@ivanmoralesv",
     "link": "http://twitter.com/ivanmoralesv"
+  },
+  {
+    "avatar": "assets/attendees/ines.jpeg",
+    "name": "Ines Huertas",
+    "nickname": "@quierodata",
+    "link": "http://twitter.com/quierodata"
   }
 ]
