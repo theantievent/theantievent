@@ -196,5 +196,29 @@
     "name": "Unai Fernandez",
     "nickname": "@unaifernandez95",
     "link": "http://twitter.com/unaifernandez95"
+  },
+  {
+    "avatar": "assets/attendees/ana.png",
+    "name": "Ana Gil",
+    "nickname": "@manosfrias",
+    "link": "http://twitter.com/manosfrias"
+  },
+  {
+    "avatar": "assets/attendees/jumi.jpeg",
+    "name": "Jumi",
+    "nickname": "@akaJumi",
+    "link": "http://twitter.com/akaJumi"
+  },
+  {
+    "avatar": "assets/attendees/rei.jpeg",
+    "name": "Rei Aguilera",
+    "nickname": "@reiaguilera",
+    "link": "http://twitter.com/reiaguilera"
+  },
+  {
+    "avatar": "assets/attendees/default.png",
+    "name": "Amaia Abaroa",
+    "nickname": "@AmaiiaAbaroa",
+    "link": "http://twitter.com/AmaiiaAbaroa"
   }
 ]
