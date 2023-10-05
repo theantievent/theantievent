@@ -162,12 +162,6 @@
     "link": "http://twitter.com/dianait"
   },
   {
-    "avatar": "assets/attendees/txus.jpeg",
-    "name": "Txus Ordorika",
-    "nickname": "@txusinho",
-    "link": "http://twitter.com/txusinho"
-  },
-  {
     "avatar": "assets/attendees/amaia.jpg",
     "name": "Amaia Berrocal",
     "nickname": "@_Korlat",
@@ -274,5 +268,27 @@
     "name": "Diego Dominguez",
     "nickname": "@seniorglez",
     "link": "https://github.com/seniorglez"
+  },
+  {
+    "avatar": "assets/attendees/degredilla.jpeg",
+    "name": "Manuel Peña",
+    "nickname": "@degredilla",
+    "link": "http://twitter.com/degredilla"
+  },
+  {
+    "avatar": "assets/attendees/ekaitz.jpeg",
+    "name": "Ekaitz Zarraga",
+    "nickname": "@ekaitz-zarraga",
+    "link": "https://github.com/ekaitz-zarraga"
+  },
+  {
+    "avatar": "assets/attendees/mendieta.jpeg",
+    "name": "Iñaki Mendieta",
+    "nickname": "Iñaki Mendieta",
+    "link": "https://www.linkedin.com/in/inakimendieta/?originalSubdomain=es"
+  },
+  {
+    "avatar": "assets/attendees/default.png",
+    "name": "Iñaki Sanchez"
   }
 ]
