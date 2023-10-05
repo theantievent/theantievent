@@ -228,12 +228,6 @@
     "link": "http://twitter.com/quierodata"
   },
   {
-    "avatar": "assets/attendees/tania.jpeg",
-    "name": "Tania Rubio",
-    "nickname": "@tania_r_v",
-    "link": "http://twitter.com/tania_r_v"
-  },
-  {
     "avatar": "assets/attendees/alejandro.jpeg",
     "name": "Alejandro Berzosa",
     "nickname": "@aberigle",
@@ -312,5 +306,11 @@
     "name": "Maite Torre",
     "nickname": "Linkedin",
     "link": "https://www.linkedin.com/in/maite-torre/?originalSubdomain=es"
+  },
+  {
+    "avatar": "assets/attendees/tania.jpeg",
+    "name": "Tania Rubio",
+    "nickname": "@tania_r_v",
+    "link": "http://twitter.com/tania_r_v"
   }
 ]
