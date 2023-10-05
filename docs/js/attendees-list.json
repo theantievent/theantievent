@@ -232,5 +232,47 @@
     "name": "Ines Huertas",
     "nickname": "@quierodata",
     "link": "http://twitter.com/quierodata"
+  },
+  {
+    "avatar": "assets/attendees/tania.jpeg",
+    "name": "Tania Rubio",
+    "nickname": "@tania_r_v",
+    "link": "http://twitter.com/tania_r_v"
+  },
+  {
+    "avatar": "assets/attendees/alejandro.jpeg",
+    "name": "Alejandro Berzosa",
+    "nickname": "@aberigle",
+    "link": "http://twitter.com/aberigle"
+  },
+  {
+    "avatar": "assets/attendees/iker-marin.jpeg",
+    "name": "Iker Marín",
+    "nickname": "@LitleTitivillus",
+    "link": "http://twitter.com/LitleTitivillus"
+  },
+  {
+    "avatar": "assets/attendees/marta-torre.jpeg",
+    "name": "Marta Torre",
+    "nickname": "@martatorredev",
+    "link": "http://twitter.com/martatorredev"
+  },
+  {
+    "avatar": "assets/attendees/txipi.jpeg",
+    "name": "Pablo Garaizar",
+    "nickname": "@PGaraizar",
+    "link": "http://twitter.com/PGaraizar"
+  },
+  {
+    "avatar": "assets/attendees/alberto-morales.jpeg",
+    "name": "Alberto Morales",
+    "nickname": "@kodenix",
+    "link": "http://twitter.com/kodenix"
+  },
+  {
+    "avatar": "assets/attendees/diego.jpeg",
+    "name": "Diego Dominguez",
+    "nickname": "@seniorglez",
+    "link": "https://github.com/seniorglez"
   }
 ]
