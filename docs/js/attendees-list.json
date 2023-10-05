@@ -290,5 +290,21 @@
   {
     "avatar": "assets/attendees/default.png",
     "name": "Iñaki Sanchez"
+  },
+  {
+    "avatar": "assets/attendees/default.png",
+    "name": "Amaia Irurita"
+  },
+  {
+    "avatar": "assets/attendees/juan.jpeg",
+    "name": "Juan Martínez",
+    "nickname": "@Arc4ng3L0",
+    "link": "http://twitter.com/Arc4ng3L0"
+  },
+  {
+    "avatar": "assets/attendees/guillermo.jpeg",
+    "name": "Guillermo Lapuente",
+    "nickname": "Linkedin",
+    "link": "https://www.linkedin.com/in/guillermo-lapuente-valea-23629812a/?originalSubdomain=es"
   }
 ]
