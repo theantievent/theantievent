@@ -1,4 +1,4 @@
-.attenders {
+.js-attenders {
   display: flex;
   flex-wrap: wrap;
 
@@ -12,6 +12,24 @@
 
     @media (min-width: 800px) {
       width: 20%;
+    }
+  }
+}
+
+.js-attenders-historical {
+  display: flex;
+  flex-wrap: wrap;
+
+  & > .item {
+    width: 100%;
+    aspect-ratio: 1;
+
+    @media (min-width: 500px) {
+      width: 50%;
+    }
+
+    @media (min-width: 800px) {
+      width: 10%;
     }
   }
 }
