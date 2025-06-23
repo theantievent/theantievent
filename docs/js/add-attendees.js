@@ -22,7 +22,7 @@ const renderAttendee = attendee => {
   chInfo.className = 'ch-info';
 
   const chInfoFront = createElement('div');
-  chInfoFront.className = 'ch-info-front';
+  chInfoFront.className = 'ch-info-front ';
   const image = createElement('img');
   image.src = attendee.avatar;
 
@@ -67,6 +67,7 @@ const renderHistoricalAttendee = attendee => {
   chInfoFront.className = 'ch-info-front';
   const image = createElement('img');
   image.src = attendee.avatar;
+  image.className = 'nk-filter--grayscale';
 
   chInfoFront.appendChild(image);
   chInfo.appendChild(chInfoFront);
