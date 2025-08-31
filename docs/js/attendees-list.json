@@ -1,317 +1,62 @@
 [
   {
-    "avatar": "assets/attendees/keldor.jpg",
-    "name": "Keldor",
-    "nickname": "@keldor88",
-    "link": "http://twitter.com/keldor88"
+    "avatar": "assets/attendees/2025/elena.jpg",
+    "name": "Elena Torró",
+    "nickname": "@elenatorro.bsky.social",
+    "link": "https://bsky.app/profile/elenatorro.bsky.social"
   },
   {
-    "avatar": "assets/attendees/ari.jpg",
-    "name": "Ari Jurado de Bilbao",
-    "nickname": "@Ari_Reinventada",
-    "link": "http://twitter.com/Ari_Reinventada"
-  },
-  {
-    "avatar": "assets/attendees/viroide.jpg",
-    "name": "Jon E. Eguiluz",
-    "nickname": "@viroide",
-    "link": "http://twitter.com/viroide"
-  },
-  {
-    "avatar": "assets/attendees/NoxWings.jpg",
-    "name": "David G. Miguel",
-    "nickname": "@NoxWings",
-    "link": "http://twitter.com/NoxWings"
-  },
-  {
-    "avatar": "assets/attendees/karen.jpg",
-    "name": "Karen Troiano",
-    "nickname": "@TroiKM",
-    "link": "http://twitter.com/TroiKM"
-  },
-  {
-    "avatar": "assets/attendees/iortizdezarate.jpg",
-    "name": "Israel Ortiz de Zárate",
-    "nickname": "@iortizdezarate",
-    "link": "http://twitter.com/iortizdezarate"
-  },
-  {
-    "avatar": "assets/attendees/manu.jpg",
-    "name": "Mánu Fosela",
-    "nickname": "@manufosela",
-    "link": "http://twitter.com/manufosela"
-  },
-  {
-    "avatar": "assets/attendees/ibaiimaz.jpg",
-    "name": "Ibai Imaz",
-    "nickname": "@ibaiimaz",
-    "link": "http://twitter.com/ibaiimaz"
-  },
-  {
-    "avatar": "assets/attendees/gonzalo.jpg",
-    "name": "Gonzalo Ayuso",
-    "nickname": "@gonzalo123",
-    "link": "http://twitter.com/gonzalo123"
-  },
-  {
-    "avatar": "assets/attendees/Nahikariii.jpg",
-    "name": "Nahikari Rabanos",
-    "nickname": "@Nahikariii",
-    "link": "http://twitter.com/Nahikariii"
-  },
-  {
-    "avatar": "assets/attendees/sirikon.png",
-    "name": "Carlos Fdez. Llamas",
-    "nickname": "@sirikon",
-    "link": "https://sirikon.me"
-  },
-  {
-    "avatar": "assets/attendees/artberri.jpg",
-    "name": "Alberto Varela",
-    "nickname": "@artberri",
-    "link": "http://twitter.com/artberri"
-  },
-  {
-    "avatar": "assets/attendees/jasone.jpg",
-    "name": "Jasone Beldarrain",
-    "nickname": "@Jaso91",
-    "link": "http://twitter.com/Jaso91"
-  },
-  {
-    "avatar": "assets/attendees/NullPointer.jpg",
-    "name": "Joseba Rodríguez",
-    "nickname": "@_NullPointer_",
-    "link": "http://twitter.com/_NullPointer_"
-  },
-  {
-    "avatar": "assets/attendees/iñigo.jpg",
-    "name": "Iñigo Delgado",
-    "nickname": "@eddieFeretro",
-    "link": "http://twitter.com/eddieFeretro"
-  },
-  {
-    "avatar": "assets/attendees/unaiorbe.png",
-    "name": "Unai Orbe",
-    "nickname": "@uorbe001",
-    "link": "http://twitter.com/uorbe001"
-  },
-  {
-    "avatar": "assets/attendees/ilpapis.jpg",
-    "name": "Iñaki Etxebarria",
-    "nickname": "@ilpapis",
-    "link": "http://twitter.com/ilpapis"
-  },
-  {
-    "avatar": "assets/attendees/bea.jpg",
-    "name": "Bea Hernández",
-    "nickname": "@Chucheria",
-    "link": "http://twitter.com/Chucheria"
-  },
-  {
-    "avatar": "assets/attendees/fer.jpg",
-    "name": "Fernando Fariña",
-    "nickname": "@penniath",
-    "link": "http://twitter.com/penniath"
-  },
-  {
-    "avatar": "assets/attendees/monica.jpg",
-    "name": "Mónica Martín",
-    "nickname": "@mon_bio",
-    "link": "http://twitter.com/mon_bio"
-  },
-  {
-    "avatar": "assets/attendees/jordi.jpg",
-    "name": "Jordi Marti",
-    "nickname": "@itortv",
-    "link": "http://twitter.com/itortv"
-  },
-  {
-    "avatar": "assets/attendees/naiara.jpg",
-    "name": "Naiara Abaroa",
-    "nickname": "@nabaroa",
-    "link": "http://twitter.com/nabaroa"
-  },
-  {
-    "avatar": "assets/attendees/maider.png",
-    "name": "Maider Landaribar",
-    "nickname": "@maidersonn_",
-    "link": "http://twitter.com/maidersonn_"
-  },
-  {
-    "avatar": "assets/attendees/gabriel.jpg",
-    "name": "Gabriel Aberasturi",
-    "nickname": "@GAberasturi",
-    "link": "http://twitter.com/GAberasturi"
-  },
-  {
-    "avatar": "assets/attendees/cata.jpg",
-    "name": "Cata Oyaneder ❤",
-    "nickname": "@cataflu",
-    "link": "http://twitter.com/cataflu"
-  },
-  {
-    "avatar": "assets/attendees/koldo.jpg",
-    "name": "Koldo Hernández",
-    "nickname": "@koldo",
-    "link": "http://twitter.com/koldo"
-  },
-  {
-    "avatar": "assets/attendees/diana.jpg",
-    "name": "Diana Hernández",
-    "nickname": "@dianait",
-    "link": "http://twitter.com/dianait"
-  },
-  {
-    "avatar": "assets/attendees/amaia.jpg",
-    "name": "Amaia Berrocal",
-    "nickname": "@_Korlat",
-    "link": "http://twitter.com/_Korlat"
-  },
-  {
-    "avatar": "assets/attendees/ebikandi.jpeg",
-    "name": "Eneko Bikandi",
-    "nickname": "@_ebikandi",
-    "link": "http://twitter.com/_ebikandi"
-  },
-  {
-    "avatar": "assets/attendees/bingen.jpg",
-    "name": "Bingen Ortuzar",
-    "nickname": "@bingen",
-    "link": "http://twitter.com/bingen"
-  },
-  {
-    "avatar": "assets/attendees/borja.jpeg",
-    "name": "Borja Portugal",
-    "nickname": "@BorjaPortu3",
-    "link": "http://twitter.com/BorjaPortu3"
-  },
-  {
-    "avatar": "assets/attendees/unai.jpeg",
-    "name": "Unai Fernandez",
-    "nickname": "@unaifernandez95",
-    "link": "http://twitter.com/unaifernandez95"
-  },
-  {
-    "avatar": "assets/attendees/ana.png",
-    "name": "Ana Gil",
-    "nickname": "@manosfrias",
-    "link": "http://twitter.com/manosfrias"
-  },
-  {
-    "avatar": "assets/attendees/jumi.jpeg",
-    "name": "Jumi",
-    "nickname": "@akaJumi",
-    "link": "http://twitter.com/akaJumi"
-  },
-  {
-    "avatar": "assets/attendees/rei.jpeg",
+    "avatar": "assets/attendees/2025/rei.jpeg",
     "name": "Rei Aguilera",
     "nickname": "@reiaguilera",
     "link": "http://twitter.com/reiaguilera"
   },
   {
-    "avatar": "assets/attendees/default.png",
-    "name": "Amaia Abaroa",
-    "nickname": "@AmaiiaAbaroa",
-    "link": "http://twitter.com/AmaiiaAbaroa"
-  },
-  {
-    "avatar": "assets/attendees/ivan.jpeg",
-    "name": "Ivan Morales",
-    "nickname": "@ivanmoralesv",
-    "link": "http://twitter.com/ivanmoralesv"
-  },
-  {
-    "avatar": "assets/attendees/ines.jpeg",
-    "name": "Ines Huertas",
-    "nickname": "@quierodata",
-    "link": "http://twitter.com/quierodata"
-  },
-  {
-    "avatar": "assets/attendees/alejandro.jpeg",
-    "name": "Alejandro Berzosa",
-    "nickname": "@aberigle",
-    "link": "http://twitter.com/aberigle"
-  },
-  {
-    "avatar": "assets/attendees/iker-marin.jpeg",
-    "name": "Iker Marín",
-    "nickname": "@LitleTitivillus",
-    "link": "http://twitter.com/LitleTitivillus"
-  },
-  {
-    "avatar": "assets/attendees/txipi.jpeg",
-    "name": "Pablo Garaizar",
-    "nickname": "@PGaraizar",
-    "link": "http://twitter.com/PGaraizar"
-  },
-  {
-    "avatar": "assets/attendees/alberto-morales.jpeg",
+    "avatar": "assets/attendees/2025/alberto-morales.jpeg",
     "name": "Alberto Morales",
     "nickname": "@kodenix",
     "link": "http://twitter.com/kodenix"
   },
   {
-    "avatar": "assets/attendees/diego.jpeg",
-    "name": "Diego Dominguez",
-    "nickname": "@seniorglez",
-    "link": "https://github.com/seniorglez"
+    "avatar": "assets/attendees/2025/ana.png",
+    "name": "Ana Gil",
+    "nickname": "@manosfrias",
+    "link": "http://twitter.com/manosfrias"
+  },
+ 
+  {
+    "avatar": "assets/attendees/2025/viroide.jpg",
+    "name": "Jon E. Eguiluz",
+    "nickname": "@viroide",
+    "link": "http://twitter.com/viroide"
+  },  {
+    "avatar": "assets/attendees/2025/keldor.jpg",
+    "name": "Keldor",
+    "nickname": "@keldor88",
+    "link": "http://twitter.com/keldor88"
   },
   {
-    "avatar": "assets/attendees/marta-torre.jpeg",
-    "name": "Marta Torre",
-    "nickname": "@martatorredev",
-    "link": "http://twitter.com/martatorredev"
+    "avatar": "assets/attendees/2025/endika.jpg",
+    "name": "Endika Garcia",
+    "nickname": "@endikadev",
+    "link": "http://twitter.com/endikadev"
   },
   {
-    "avatar": "assets/attendees/degredilla.jpeg",
-    "name": "Manuel Peña",
-    "nickname": "@degredilla",
-    "link": "http://twitter.com/degredilla"
+    "avatar": "assets/attendees/historical/sabina.jpg",
+    "name": "Sabina",
+    "nickname": "",
+    "link": ""
   },
   {
-    "avatar": "assets/attendees/ekaitz.jpeg",
-    "name": "Ekaitz Zarraga",
-    "nickname": "@ekaitz-zarraga",
-    "link": "https://github.com/ekaitz-zarraga"
+    "avatar": "assets/attendees/2025/zeneke.jpg",
+    "name": "Hector Villar",
+    "nickname": "@zenekezene",
+    "link": "http://twitter.com/zenekezene"
   },
   {
-    "avatar": "assets/attendees/mendieta.jpeg",
-    "name": "Iñaki Mendieta",
-    "nickname": "Iñaki Mendieta",
-    "link": "https://www.linkedin.com/in/inakimendieta/?originalSubdomain=es"
-  },
-  {
-    "avatar": "assets/attendees/iñaki.jpg",
-    "name": "Iñaki Sánchez",
-    "link": "https://twitter.com/Qu3ky"
-  },
-  {
-    "avatar": "assets/attendees/default.png",
-    "name": "Amaia Irurita"
-  },
-  {
-    "avatar": "assets/attendees/juan.jpeg",
-    "name": "Juan Martínez",
-    "nickname": "@Arc4ng3L0",
-    "link": "http://twitter.com/Arc4ng3L0"
-  },
-  {
-    "avatar": "assets/attendees/guillermo.jpeg",
-    "name": "Guillermo Lapuente",
-    "nickname": "Linkedin",
-    "link": "https://www.linkedin.com/in/guillermo-lapuente-valea-23629812a/?originalSubdomain=es"
-  },
-  {
-    "avatar": "assets/attendees/maite.jpeg",
-    "name": "Maite Torre",
-    "nickname": "Linkedin",
-    "link": "https://www.linkedin.com/in/maite-torre/?originalSubdomain=es"
-  },
-  {
-    "avatar": "assets/attendees/tania.jpeg",
-    "name": "Tania Rubio",
-    "nickname": "@tania_r_v",
-    "link": "http://twitter.com/tania_r_v"
+    "avatar": "assets/attendees/2025/jumi.jpeg",
+    "name": "Jumi",
+    "nickname": "@akaJumi",
+    "link": "http://twitter.com/akaJumi"
   }
 ]
