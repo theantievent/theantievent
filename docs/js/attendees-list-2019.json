@@ -1,5 +1,11 @@
 [
   {
+    "avatar": "assets/attendees/artberri.jpg",
+    "name": "Alberto Varela",
+    "nickname": "@artberri",
+    "link": "http://twitter.com/artberri"
+  },
+  {
     "avatar": "assets/attendees/mercedes.jpg",
     "name": "Mercedes",
     "nickname": "@laponyo",
@@ -198,12 +204,6 @@
     "link": "https://elenq.tech"
   },
   {
-    "avatar": "assets/attendees/artberri.jpg",
-    "name": "Alberto Varela",
-    "nickname": "@artberri",
-    "link": "http://twitter.com/artberri"
-  },
-  {
     "avatar": "assets/attendees/manosfrias.jpg",
     "name": "Manosfrias",
     "nickname": "@manosfrias",
@@ -395,13 +395,13 @@
     "nickname": "",
     "link": ""
   },
-  {  
+  {
     "avatar": "assets/attendees/ricardo.jpg",
     "name": "Ricardo Galipienzo",
     "nickname": "@rgalipienzo",
     "link": "http://twitter.com/rgalipienzo"
   },
-  {  
+  {
     "avatar": "assets/attendees/jesus.jpg",
     "name": "Jesus Arnas",
     "nickname": "@jesusArnas",
