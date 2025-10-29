@@ -1,9 +1,11 @@
-[   {
+[
+  {
     "avatar": "assets/attendees/2025/ekaitz.jpeg",
     "name": "Ekaitz",
     "nickname": "@ekaitz",
     "link": "https://elenq.tech"
-  }, {
+  },
+  {
     "avatar": "assets/attendees/2025/julen.jpg",
     "name": "Julen Garcia Leunda",
     "nickname": "@hicom150",
@@ -22,16 +24,16 @@
     "link": "https://bsky.app/profile/iortizdezarate.com"
   },
   {
-    "avatar": "assets/attendees/historical/bingen.jpg",
-    "name": "Bingen Ortuzar",
-    "nickname": "@bingen",
-    "link": "http://twitter.com/bingen"
-  },
-  {
     "avatar": "assets/attendees/2025/jasone.jpg",
     "name": "Jasone Beldarrain",
     "nickname": "@Jaso91",
     "link": "http://twitter.com/Jaso91"
+  },
+  {
+    "avatar": "assets/attendees/historical/bingen.jpg",
+    "name": "Bingen Ortuzar",
+    "nickname": "@bingen",
+    "link": "http://twitter.com/bingen"
   },
   {
     "avatar": "assets/attendees/2025/manu.jpg",
